@@ -1,0 +1,10 @@
+sensor.hebrew_date:
+  icon: mdi:calendar
+sensor.parashat_hashavua:
+  icon: mdi:book-open-variant
+sensor.sunset:
+  icon: mdi:weather-sunset
+sensor.shabbat_entrance:
+  icon: mdi:candle
+sensor.shabbat_exit:
+  icon: mdi:exit-to-app
