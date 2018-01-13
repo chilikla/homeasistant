@@ -1,0 +1,20 @@
+- platform: command_line
+  name: Hebrew Date
+  command: '/config/scripts/node.sh date'
+  scan_interval: 300
+- platform: command_line
+  name: Shabbat Entrance
+  command: '/config/scripts/node.sh shabbat_entrance'
+  scan_interval: 300
+- platform: command_line
+  name: Shabbat Exit
+  command: '/config/scripts/node.sh shabbat_exit'
+  scan_interval: 300
+- platform: command_line
+  name: Sunset
+  command: '/config/scripts/node.sh sunset'
+  scan_interval: 300
+- platform: command_line
+  name: Parashat HaShavua
+  command: '/config/scripts/node.sh parasha'
+  scan_interval: 300
